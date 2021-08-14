@@ -1,6 +1,6 @@
--# 
--# Currently working on creating different cracking tools
--#
+- 
+- Currently working on creating different cracking tools
+-
 -
 - 👋 Hi, I’m @audyviii
 - 👀 I’m interested in ... Networking, Python, and Security

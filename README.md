@@ -1,3 +1,7 @@
+-# 
+-# Currently working on creating different cracking tools
+-#
+-
 - 👋 Hi, I’m @audyviii
 - 👀 I’m interested in ... Networking, Python, and Security
 - 🌱 I’m currently learning ... PenTest+

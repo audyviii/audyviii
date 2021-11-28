@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Networking, Python, and Security
 - 🌱 I’m currently learning ... PenTest+
 - 💞️ I’m looking to collaborate on ... Networking or NetSec
-- 📫 How to reach me ... audyvient3@gmail.com
+- 📫 How to reach me ... chase.a.cantrell@live.com
 
 <!---
 audyviii/audyviii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 -
 - 👋 Hi, I’m @audyviii
 - 👀 I’m interested in ... Network Security, Programming, and building things that I can automate.
-- 🌱 I’m currently learning ... C and PenTest+
+- 🌱 I’m currently learning ... Python/C and PenTest+
 - 💞️ I’m looking to collaborate on ... Python Automations/Scripting, 
 - 📫 How to reach me ... chase.a.cantrell@live.com
 

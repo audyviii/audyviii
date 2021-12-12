@@ -1,4 +1,4 @@
-- Current Project:  Tkinter development for creating network security cracking tools
+- Current Project:  Finishing up automation project. Python script to consistently move folders within folder structures
 -
 - 👋 Hi, I’m @audyviii,
 - 👀 I’m interested in ... Network Security, Programming, and building Software.

@@ -1,5 +1,5 @@
 - Current Project:  Finishing up automation project. Python script to consistently move folders within folder structures
--
+
 - 👋 Hi, I’m @audyviii,
 - 👀 I’m interested in ... Network Security, Programming, and building Software.
 - 🌱 I’m currently learning ... Python/C and PenTest+

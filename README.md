@@ -1,9 +1,9 @@
 - Current Project:  Tkinter development for creating network security cracking tools
 -
-- 👋 Hi, I’m @audyviii
+- 👋 Hi, I’m @audyviii,
 - 👀 I’m interested in ... Network Security, Programming, and building Software.
 - 🌱 I’m currently learning ... Python/C and PenTest+
-- 💞️ I’m looking to collaborate on ... Python Automations/Scripting, 
+- 💞️ I’m looking to collaborate on ... Python, C, and seeking opportunities to do and learn more.   
 - 📫 How to reach me ... chase.a.cantrell@live.com
 
 <!---

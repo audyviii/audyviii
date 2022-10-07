@@ -1,11 +1,11 @@
-- Current Project:  Finishing up automation project. Python script to consistently move folders within folder structures
+- Current Project:  Restructuring the GitHub and about to start a new security project coming up! Stay tuned!
 
 
 - 👋 Hi, I’m @audyviii,
 - 👀 I’m interested in ... Network Security, Programming, and building Software.
-- 🌱 I’m currently learning ... Python/C and PenTest+
-- 💞️ I’m looking to collaborate on ... Python, C, and seeking opportunities to do and learn more.   
-- 📫 How to reach me ... chase.a.cantrell@live.com
+- 🌱 I’m currently learning ... Powershell Scripting and Security+
+- 💞️ I’m looking to collaborate on ... Python, Cybersecurity, and making opportunities to do and learn more.   
+- 📫 How to reach me ... chase.a.cantrell@protonmail.com
 
 <!---
 audyviii/audyviii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

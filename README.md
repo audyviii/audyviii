@@ -2,10 +2,10 @@
 
 
 - 👋 Hi, I’m @audyviii,
-- 👀 I’m interested in ... Network Security, Programming, and building Software.
-- 🌱 I’m currently learning ... Powershell Scripting and Security+
-- 💞️ I’m looking to collaborate on ... Python, Cybersecurity, and making opportunities to do and learn more.   
-- 📫 How to reach me ... chase.a.cantrell@protonmail.com
+- 👀 I’m interested in ... CyberSec, Network Sec, Programming, and DevSecOps.
+- 🌱 I’m currently learning ... CySa+ & DevSecOps
+- 💞️ I’m looking to collaborate on ... Python, Powershell, Cybersecurity   
+- 📫 How to reach me ... chase@chasecantrell.tech
 
 <!---
 audyviii/audyviii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

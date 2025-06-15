@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @audyviii,
-- 👀 I’m interested in ... CyberSec, Network Sec, Programming, and DevSecOps.
-- 🌱 I’m currently learning ... CySa+ & DevSecOps
+- 👀 I’m interested in ... CyberSec, Programming, and DevSecOps.
+- 🌱 I’m currently learning ... PenTest+ & DevSecOps
 - 💞️ I’m looking to collaborate on ... Python, Powershell, Cybersecurity   
 - 📫 How to reach me ... chase@chasecantrell.tech
 
